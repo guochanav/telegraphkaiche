@@ -8,7 +8,7 @@
 如果大家有发现存在敏感内容的群组、频道和机器人欢迎在 issues 中提交，会在第一时间处理。</p>
 </blockquote>
 <blockquote>
-<p dir="auto">GitHub 项目地址直达
+<p dir="auto">GitHub 项目地址直达 https://github.com/guochanav/telegraphkaiche
 <a href=""></a></p>
 </blockquote>
 <table>
